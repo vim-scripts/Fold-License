@@ -1,0 +1,18 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4420
+
+This script look for some keywords on licenses, identify a license block in the start of a file, and folds it. 
+
+The license can be commented in the following styles:
+C single line
+C multi line
+bash single line
+
+it should be fair easy to add other comment styles.
+
+fork it at https://github.com/fotanus/fold_license
+
+
+
+
+
+
